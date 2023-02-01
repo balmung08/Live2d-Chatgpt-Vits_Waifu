@@ -1,0 +1,64 @@
+Wed Feb  1 23:05:23 2023
+Windows-10-10.0.22000
+Ren'Py 8.0.3.22090809
+ 
+
+Bootstrap to the start of init.init took 0.06s
+Early init took 0.11s
+Loader init took 0.02s
+Loading error handling took 0.03s
+Loading script took 0.13s
+Loading save slot metadata. took 0.01s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'C:\\Users\\admin\\Desktop\\waife\\ChatWaifuL2D\\test2\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Set script version to: (8, 0, 3)
+Running init code took 0.15s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.47s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.14s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 496.13'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1724, 970) drawable=(1724, 970)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1539, 970) drawable=(1539, 970)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1043, 970) drawable=(1043, 970)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1043, 651) drawable=(1043, 651)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1280, 720) physical=(1043, 643) drawable=(1043, 643)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
