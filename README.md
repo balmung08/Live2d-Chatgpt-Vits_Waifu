@@ -22,3 +22,4 @@
 * 这项目也就是看起来比较好玩了。自己复现一遍之后就会觉得三个主要方面：vits，gpt，renpy基本上都有点问题。要么效果差要么速度慢或者局限性高，最后效果就是一句话回复50+字数可能要等上十来秒，语音合成也听起来怪怪的。不过最近效果好的语音模型也有不少，如果要重构项目可以考虑升级模型。另外chatgpt的本地部署基本上是不可能的，那就只能希望他们能把api扩个流吧。renpy就不指望增加python扩展性了，人一个gal引擎正常需求哪需要这些玩意啊（草）
 
 > 本项目为b站bvBV1TD4y1E7e8的复现及解构，其原项目git地址为https://github.com/cjyaddone/ChatWaifu
+> 可用的预训练模型：https://github.com/CjangCjengh/TTSModels
