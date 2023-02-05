@@ -23,3 +23,5 @@
 
 > 本项目为b站bvBV1TD4y1E7e8的复现及解构，其原项目git地址为https://github.com/cjyaddone/ChatWaifu<br>
 可用的预训练模型：https://github.com/CjangCjengh/TTSModels
+
+* 附：chatgpt调教指南：https://github.com/PlexPt/awesome-chatgpt-prompts-zh （我直呼牛逼）
